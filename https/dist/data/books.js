@@ -1,3 +1,8 @@
+// export type BookType = {
+//   id: number;
+//   title: string;
+//   author: string;
+// };
 export const books = [
     { id: 1, title: "book1", author: "author1" },
     { id: 2, title: "book2", author: "author2" },
