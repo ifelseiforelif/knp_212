@@ -1,0 +1,9 @@
+POST http://localhost:3000/category HTTP/1.1
+content-type:application/json
+
+{
+    "title":"Хлібобулочні вироби"
+}
+
+###
+GET http://localhost:3000/category HTTP/1.1
